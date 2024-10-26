@@ -47,7 +47,7 @@ while True:
             case 2:
                 JuliaSet.show_julia_set(max_iter)
             case 3:
-                BuddhaBrot.show_buddhabrot(max_iter)
+                Buddhabrot.show_buddhabrot(max_iter)
 
     except ValueError:
         print("Ошибка: пожалуйста, введите целое число для выбора опции.\n")
