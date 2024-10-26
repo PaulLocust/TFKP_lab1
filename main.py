@@ -1,5 +1,5 @@
 import sys
-from fractals import BuddhaBrot, MandelbrotSet, JuliaSet
+from fractals import Buddhabrot, MandelbrotSet, JuliaSet
 
 
 def get_max_iter():
